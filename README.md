@@ -1,2 +1,2 @@
 # trojanfly
-I developed this computer graphics using OpenGL
+I developed this computer graphics project using OpenGL
